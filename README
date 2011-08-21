@@ -1,4 +1,4 @@
-== Welcome to Rails
+b == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -30,7 +30,7 @@ link:files/vendor/rails/actionpack/README.html.
 
 0. Chapter 4 testing app
    Some more stuff to be done
-
+   and another one, more
 1. At the command prompt, create a new Rails application:
        <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
 
